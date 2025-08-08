@@ -48,7 +48,7 @@ You need to authenticate the node with the following credentials:
 - **Client ID**: The OAuth2 client ID of the Discord App.
 - **Bot Token**: The bot token of the Discord App.
 - **n8n API Key**: The API key of your n8n server.
-- **Base URL**: The API URL of your n8n instance (e.g., `https://n8n.example.com/api/v1`).
+- **Base URL**: The API URL of your n8n instance (e.g., `https://n8n.example.com`).
 
 Refer to the [official n8n documentation](https://docs.n8n.io/) for more details.
 
